@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - My motivation was completing this project in a timely manner.
 - I built this project to impress my client and improve the code-base for long term sustainability.
 - The client wants a codebase that follows accessibility standards.
@@ -14,3 +12,4 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Usage
 
 The web application's functionality works properly. We focused primarily in the ease of use of our application by providing multiple search engines that the user could use. These items were, search engine optimization, online marketing, and social media marketing. Our website image demo is provided in the assets/images folder.
+Attached link to our company's website: http://127.0.0.1:5500/02-Challenge/Develop/challengecomplete.html
