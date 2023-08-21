@@ -5,7 +5,7 @@
 - My motivation was completing this project in a timely manner.
 - I built this project to impress my client and improve the code-base for long term sustainability.
 - The client wants a codebase that follows accessibility standards.
-- Redesigning our code by eliminating the <div> elements to sematintic elements, <source> <header> etc.
+- Redesigning our code by eliminating the <div> elements to semantic elements, <source> <header> etc.
 
 
 
