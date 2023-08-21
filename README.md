@@ -12,4 +12,4 @@
 ## Usage
 
 The web application's functionality works properly. We focused primarily in the ease of use of our application by providing multiple search engines that the user could use. These items were, search engine optimization, online marketing, and social media marketing. Our website image demo is provided in the assets/images folder.
-Attached link to our company's website: http://127.0.0.1:5500/Develop/challengecomplete.html
+Attached link to our company's website: https://joellopez95.github.io/Week1Challenge/
